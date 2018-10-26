@@ -68,7 +68,8 @@
     "lodash": "4.17.10",
     "path-is-absolute": "1.0.1",
     "sql-ddl-sync": "0.3.14",
-    "sql-query": "0.1.27"
+    "sql-query": "0.1.27",
+    "rqlite-connect": "latest"
   },
   "devDependencies": {
     "chalk": "2.4.1",
